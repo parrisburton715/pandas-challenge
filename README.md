@@ -3,7 +3,8 @@ Approach:
 1. Read Data
 2. Calculated data frame to store district summary
 3. Summerized key metrics of each school that included
-*Findings:
+
+Findings:
 1) School type
 2) Total students
 3) Total school budget
@@ -20,7 +21,8 @@ Approach:
 Approach:
 1) Read data
 2) Calculated data frame to store student summary
-*Findings
+
+Findings:
 1) Ave Math score by %
 2) Ave Reading score by %
 3) Spending per student
