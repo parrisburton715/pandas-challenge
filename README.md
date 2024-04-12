@@ -28,5 +28,5 @@ Approach:
 
 ### Report:
 District schools has a slightly higher per student budget than Charter schools.
-Charter school student grades in math and reading are higher than District school students across all grades 9-12
-Charter schools students are outperforming District schools students although they the per student budget is less.
+Charter school student grades in math and reading are higher than District school students across all grades 9-12.
+Charter schools students are outperforming District schools students although their per student budget is less.
