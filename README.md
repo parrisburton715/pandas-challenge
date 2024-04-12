@@ -18,13 +18,13 @@ Findings:
 
 ## Student Data:
 Approach:
-Read data
-Calculated data frame to store student summary
-Findings
-Ave Math score by %
-Ave Reading score by %
-Spending per student
-Per student budget
+*Read data
+*Calculated data frame to store student summary
+*Findings
+*Ave Math score by %
+*Ave Reading score by %
+*Spending per student
+*Per student budget
 
 ### Report:
 District schools has a slightly higher per student budget than Charter schools.
