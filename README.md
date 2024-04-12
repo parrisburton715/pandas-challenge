@@ -4,27 +4,27 @@ Approach:
 2. Calculated data frame to store district summary
 3. Summerized key metrics of each school that included
 Findings:
-*School type
-*Total students
-*Total school budget
-*Per student budget
-*Average math score
-*Average reading score
-*% passing math (the percentage of students who passed math)
-*% passing reading (the percentage of students who passed reading)
-*Highest perfornming schools
-*Lowest performing schools
-*% overall passing (the percentage of students who passed math AND reading)
+1) School type
+2) Total students
+3) Total school budget
+4) Per student budget
+5) Average math score
+6) Average reading score
+7) % passing math (the percentage of students who passed math)
+8) % passing reading (the percentage of students who passed reading)
+9) Highest perfornming schools
+10) Lowest performing schools
+11) % overall passing (the percentage of students who passed math AND reading)
 
 ## Student Data:
 Approach:
-*Read data
-*Calculated data frame to store student summary
-*Findings
-*Ave Math score by %
-*Ave Reading score by %
-*Spending per student
-*Per student budget
+1) Read data
+2) Calculated data frame to store student summary
+Findings
+1) Ave Math score by %
+2) Ave Reading score by %
+3) Spending per student
+4) Per student budget
 
 ### Report:
 District schools has a slightly higher per student budget than Charter schools.
