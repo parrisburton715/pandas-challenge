@@ -16,7 +16,7 @@ Highest perfornming schools
 Lowest performing schools
 % overall passing (the percentage of students who passed math AND reading)
 
-## Student Data
+## Student Data:
 Approach:
 Read data
 Calculated data frame to store student summary
@@ -26,7 +26,7 @@ Ave Reading score by %
 Spending per student
 Per student budget
 
-### Report
+### Report:
 District schools has a slightly higher per student budget than Charter schools.
 Charter school student grades in math and reading are higher than District school students across all grades 9-12
 Charter schools students are outperforming District schools students although they the per student budget is less.
