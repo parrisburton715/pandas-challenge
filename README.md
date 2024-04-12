@@ -4,17 +4,17 @@ Approach:
 2. Calculated data frame to store district summary
 3. Summerized key metrics of each school that included
 Findings:
-School type
-Total students
-Total school budget
-Per student budget
-Average math score
-Average reading score
-% passing math (the percentage of students who passed math)
-% passing reading (the percentage of students who passed reading)
-Highest perfornming schools
-Lowest performing schools
-% overall passing (the percentage of students who passed math AND reading)
+*School type
+*Total students
+*Total school budget
+*Per student budget
+*Average math score
+*Average reading score
+*% passing math (the percentage of students who passed math)
+*% passing reading (the percentage of students who passed reading)
+*Highest perfornming schools
+*Lowest performing schools
+*% overall passing (the percentage of students who passed math AND reading)
 
 ## Student Data:
 Approach:
